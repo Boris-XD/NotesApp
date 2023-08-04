@@ -1,0 +1,1 @@
+D:\Private Projects\Maui\NotesApp\NotesApp\NotesApp.csproj;x64
